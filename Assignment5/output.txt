@@ -1,4 +1,4 @@
-'''Scope challenge:
+Scope challenge:
    নিচের code এর output কী হবে?
 
 x = 1
@@ -11,6 +11,5 @@ x = 1
        print(x)
    outer()
    print(x)
-   '''
-   
+
 output: 3, 2, 1
